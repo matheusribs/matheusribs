@@ -17,9 +17,8 @@
   <img align="center" alt="Matheus-Bootstrap" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-original.svg">
   <img align="center" alt="Matheus-PHP" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg">
   <img align="center" alt="Matheus-MySql" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg">
-  <img align="center" alt="Matheus-MySql" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/slack/slack-original.svg">
   <img align="center" alt="Matheus-VSCODE" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg">
-  
+  <img align="center" alt="Matheus-MySql" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/slack/slack-original.svg">
 </div>
 <br>
 <div> 
