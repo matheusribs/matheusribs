@@ -28,6 +28,6 @@
  
   ![Snake animation](https://github.com/matheusribs/matheusribs/blob/output/github-contribution-grid-snake.svg)
 
-  ![snake animation](https://github.com/matheusribs/matheusribs/blob/output/github-contribution-grid-snake2.svg)
+  ![snake animation](https://github.com/matheusribs/matheusribeiro/blob/output/github-contribution-grid-snake2.svg)
  
 </div>
