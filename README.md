@@ -24,15 +24,6 @@ On the back-end, I work with <strong>PHP</strong> and relational databases such 
 
 ---
 
-<div align="left">
-  <a href="https://github.com/matheusribs">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=matheusribs&theme=dark&show_icons=true"/>
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=matheusribs&layout=compact&theme=gotham"/>
-  </a>
-</div>
-
----
-
 <h3>🛠 Tech Stack</h3>
 
 <div style="display: flex; flex-wrap: wrap; gap: 10px; align-items: center;">
